@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# Sowmiyakumar 👋
+An extremely dedicated,smart working and self motivated individual. Always looking to expand my skills with real world experience and would love to travel.I am an aspiring Data Science enthusiast, with skills in Data Science and Deep Learning. I've worked on minor projects. I am also having good programming skills in Python, SQL, and Power BI
+## Project
+Participated in project named “SMARTTORCH” 
+National Level Project Fair at Hindustan College of Engineering Technology.
 <!--
 **iamsowmiya97/iamsowmiya97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
